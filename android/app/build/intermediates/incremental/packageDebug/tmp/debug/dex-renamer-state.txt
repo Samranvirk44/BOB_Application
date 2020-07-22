@@ -1,0 +1,4 @@
+#Tue Jul 21 11:54:45 PKT 2020
+base.0=/Users/abdurrehman/Desktop/Samran/BOB/BOB/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

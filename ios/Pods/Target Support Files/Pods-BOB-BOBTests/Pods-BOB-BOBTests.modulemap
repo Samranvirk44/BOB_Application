@@ -1,0 +1,6 @@
+module Pods_BOB_BOBTests {
+  umbrella header "Pods-BOB-BOBTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
